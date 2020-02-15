@@ -1,5 +1,6 @@
 I don't know how relevant it is, but here is the link for the first monday assignment: Getting Travis to work.
 https://github.com/KumaSudosa/3semWeek7Travis
+It's possible we had to provide both links (for both assignments), but I made them in the same repo.
 
 And here is my server link: https://marcuscph.company/Week7Monday/
 
