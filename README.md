@@ -14,3 +14,6 @@ In "The JavaScript Array" all assignments except number "K", which is marked red
 In "JavaScript Day-1" all assignments except number "4a", which is marked yellow, have been completed. There is a note in the code.
 
 # Thursday 
+This contains all the assignments in the "Dom Manipulation and Events" document, but the "Dynamic UI manipulation using data obtained via fetch" assignment has not been completed, and it is marked yellow-red.
+
+# Unfortunately I was unable to complete the friday assignment
