@@ -1,8 +1,6 @@
 I don't know how relevant it is, but here is the link for the first monday assignment: Getting Travis to work.
 https://github.com/KumaSudosa/3semWeek7Travis
 
-Originally I had made 2 separate GIT projects, with the JavaScript in one, and the JPA in the other, and now I've put them together to uniform it as we're supposed to.
-
 And here is my server link: https://marcuscph.company/Week7Monday/
 
 # Monday
