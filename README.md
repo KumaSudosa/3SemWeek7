@@ -1,6 +1,8 @@
 I don't know how relevant it is, but here is the link for the first monday assignment: Getting Travis to work.
 https://github.com/KumaSudosa/3semWeek7Travis
 
+Originally I had made 2 separate GIT projects, with the JavaScript in one, and the JPA in the other, and now I've put them together to uniform it as we're supposed to.
+
 # Monday
 This contains the assignment "REST,JPA, Test and CI with our start code" which has been fully completed.
 The same project / day also contains the endpoint tests for the tuesday assignment. 
